@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(220, 239, 239);
+    margin: 3cm;
+    margin-top: 0cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 300;
+    line-height: 0.75cm;
+}
+img {
+    width: 25cm;
+    height: 12cm;
+    position: center;
+}
+.img2 {
+    float: bottom;
+    
+}
+.comment {
+    margin: 1.5cm;
+    border-left-style: double;
+    border-left-width: 3pt;
+    margin-top: 0.5cm;
+}
+em {
+    font-weight: 900;
+}
